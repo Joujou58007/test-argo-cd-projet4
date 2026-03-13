@@ -36,5 +36,5 @@ spec:
       containers:
       - name: apollo
         image: busybox
-        command: ["sh", "-c", "echo 'Hello specifically from mx6qmpic!' && sleep infinity"]
+        command: ["sh", "-c", "echo 'To inifinty and beyond!' && sleep infinity"]
 
